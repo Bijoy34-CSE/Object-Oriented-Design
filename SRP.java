@@ -1,4 +1,5 @@
 /**
+ *Title: A java programme to demonstrate Single Responsibility Principle
  *Author: Bijoy Kumar Paul, Student ID: 220234 , Discipline: CSE , Khulna University
  * Represents a simple Student with name, age, and enrolled course.
  */
