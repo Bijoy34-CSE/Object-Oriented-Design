@@ -78,7 +78,7 @@ class SchoolDemo {
      */
     public static void main(String[] args) {
         // Create a student
-        Student student = new Student("Nayon", 21, "Computer Science");
+        Student student = new Student("Bijoy", 21, "Advanced Programming Laboratory");
 
         // Enroll the student in a course using StudentManagementSystem
         StudentManagementSystem sms = new StudentManagementSystem();
@@ -89,7 +89,6 @@ class SchoolDemo {
 }
 
 /**
- * In the above program, the Single Responsibility Principle is demonstrated where the Student class is responsible
- * for storing the attributes of a student, and the StudentManagementSystem class is responsible for managing student-related operations.
+ * In the above program, the Single Responsibility Principle is demonstrated where the Student class is responsible for storing the attributes of a student, and the StudentManagementSystem class is responsible for managing student-related operations.
  * This separation of concerns allows for easier maintenance and modification of the code.
  */
