@@ -74,7 +74,7 @@ class StudentDatabase implements StudentDataProvider {
     @Override
     public Student getStudentDetails() {
         // Simulate fetching student details from a database
-        return new Student("Nayon", 21, "Computer Science");
+        return new Student("Bijoy", 20, "Advanced Programming Laboratory");
     }
 }
 
